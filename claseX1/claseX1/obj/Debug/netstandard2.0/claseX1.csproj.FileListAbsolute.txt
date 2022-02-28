@@ -2,8 +2,8 @@ C:\Users\bryan\source\repos\claseX1\claseX1\claseX1\bin\Debug\netstandard2.0\cla
 C:\Users\bryan\source\repos\claseX1\claseX1\claseX1\bin\Debug\netstandard2.0\claseX1.dll
 C:\Users\bryan\source\repos\claseX1\claseX1\claseX1\bin\Debug\netstandard2.0\ref\claseX1.dll
 C:\Users\bryan\source\repos\claseX1\claseX1\claseX1\bin\Debug\netstandard2.0\claseX1.pdb
-C:\Users\bryan\source\repos\claseX1\claseX1\claseX1\obj\Debug\netstandard2.0\claseX1.csprojAssemblyReference.cache
 C:\Users\bryan\source\repos\claseX1\claseX1\claseX1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\bryan\source\repos\claseX1\claseX1\claseX1\obj\Debug\netstandard2.0\DetailPage.xaml.g.cs
 C:\Users\bryan\source\repos\claseX1\claseX1\claseX1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
 C:\Users\bryan\source\repos\claseX1\claseX1\claseX1\obj\Debug\netstandard2.0\claseX1.AssemblyInfoInputs.cache
 C:\Users\bryan\source\repos\claseX1\claseX1\claseX1\obj\Debug\netstandard2.0\claseX1.AssemblyInfo.cs
@@ -12,4 +12,3 @@ C:\Users\bryan\source\repos\claseX1\claseX1\claseX1\obj\Debug\netstandard2.0\Xam
 C:\Users\bryan\source\repos\claseX1\claseX1\claseX1\obj\Debug\netstandard2.0\claseX1.dll
 C:\Users\bryan\source\repos\claseX1\claseX1\claseX1\obj\Debug\netstandard2.0\ref\claseX1.dll
 C:\Users\bryan\source\repos\claseX1\claseX1\claseX1\obj\Debug\netstandard2.0\claseX1.pdb
-C:\Users\bryan\source\repos\claseX1\claseX1\claseX1\obj\Debug\netstandard2.0\DetailPage.xaml.g.cs
